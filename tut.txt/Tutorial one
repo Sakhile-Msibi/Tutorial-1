@@ -1,0 +1,6 @@
+1) ls -ltr
+
+2) (i)  head -n25 [file name]
+   (ii) sed -n '16,40p' [file name]
+
+3) python -h
