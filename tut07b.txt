@@ -1,0 +1,1 @@
+The factor 2, it comes from left and right neighbours to calculate derivative, because from centre we have it one point away from left and one piont away from right, hence we have the combination of the these pints which result 2 factor.
